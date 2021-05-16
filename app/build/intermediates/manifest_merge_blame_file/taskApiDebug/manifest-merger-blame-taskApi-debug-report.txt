@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.classification"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+8        android:minSdkVersion="21"
+8-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+9        android:targetSdkVersion="28" />
+9-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:6:5-65
+11-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:6:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:8:5-60
+13-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:8:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:9:5-70
+14-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:9:19-67
+15
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19
+20    <application
+20-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:11:5-27:19
+21        android:allowBackup="true"
+21-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:12:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] C:\Users\chsj\.gradle\caches\transforms-3\5c81b2bfb96e2db9c19444749cd55a33\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:13:9-43
+25        android:label="@string/tfe_ic_app_name"
+25-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:14:9-48
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:15:9-54
+27        android:supportsRtl="true"
+27-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:16:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme.ImageClassification" >
+29-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:17:9-60
+30        <activity
+30-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:18:9-26:20
+31            android:name="org.tensorflow.lite.examples.classification.ClassifierActivity"
+31-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:19:13-47
+32            android:label="@string/tfe_ic_app_name"
+32-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:20:13-52
+33            android:screenOrientation="portrait" >
+33-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:21:13-49
+34            <intent-filter>
+34-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:22:13-25:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:23:17-69
+35-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:23:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:24:17-77
+37-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:24:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>
