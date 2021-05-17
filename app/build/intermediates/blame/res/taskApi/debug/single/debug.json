@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxxhdpi_daengo.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\daengo.png"
+    },
+    {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-mdpi_ic_launcher.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xhdpi_daengo_round.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xhdpi\\daengo_round.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\layout_tfe_ic_camera_connection_fragment.xml.flat",
@@ -12,10 +20,6 @@
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
@@ -24,8 +28,96 @@
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-anydpi-v26_daengo.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\daengo.xml"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_bottom_sheet_bg.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_daengo_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\daengo_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_daengo_round.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\daengo_round.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_ic_baseline_remove.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\ic_baseline_remove.xml"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_daengo_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\daengo_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_daengo_round.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\daengo_round.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\layout_tfe_ic_activity_camera.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\layout\\tfe_ic_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxxhdpi_daengo_round.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\daengo_round.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xhdpi_daengo_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xhdpi\\daengo_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxxhdpi_daengo_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\daengo_foreground.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xhdpi_daengo.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xhdpi\\daengo.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_daengo_background.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\daengo_background.xml"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -36,28 +128,24 @@
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_daengo.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\daengo.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_ic_baseline_add.xml.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\ic_baseline_add.xml"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_bottom_sheet_bg.xml.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\bottom_sheet_bg.xml"
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_daengo.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\daengo.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-hdpi_ic_launcher.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_daengo.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\daengo.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
@@ -72,10 +160,6 @@
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable_ic_baseline_remove.xml.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\ic_baseline_remove.xml"
-    },
-    {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
@@ -88,24 +172,12 @@
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\layout\\tfe_ic_layout_bottom_sheet.xml"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\layout_tfe_ic_activity_camera.xml.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\layout\\tfe_ic_activity_camera.xml"
-    },
-    {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -116,19 +188,19 @@
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable\\rectangle.xml"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-anydpi-v26_daengo_round.xml.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\daengo_round.xml"
     },
     {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
-    },
-    {
-        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-mdpi_daengo_foreground.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-mdpi\\daengo_foreground.png"
     },
     {
         "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\res\\merged\\taskApi\\debug\\mipmap-hdpi_daengo_round.png.flat",
+        "source": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\src\\main\\res\\mipmap-hdpi\\daengo_round.png"
     }
 ]

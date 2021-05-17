@@ -982,6 +982,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable daengo_background
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1357,6 +1358,9 @@ layout support_simple_spinner_dropdown_item
 layout tfe_ic_activity_camera
 layout tfe_ic_camera_connection_fragment
 layout tfe_ic_layout_bottom_sheet
+mipmap daengo
+mipmap daengo_foreground
+mipmap daengo_round
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
@@ -1395,6 +1399,7 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string mtrl_chip_close_icon_content_description
+string my_app_name
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through

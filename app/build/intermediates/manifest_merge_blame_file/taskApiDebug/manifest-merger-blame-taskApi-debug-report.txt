@@ -33,12 +33,12 @@
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.1.0] C:\Users\chsj\.gradle\caches\transforms-3\5c81b2bfb96e2db9c19444749cd55a33\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
-24        android:icon="@mipmap/ic_launcher"
-24-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:13:9-43
-25        android:label="@string/tfe_ic_app_name"
-25-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:14:9-48
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:15:9-54
+24        android:icon="@mipmap/daengo"
+24-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:13:9-38
+25        android:label="@string/my_app_name"
+25-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:14:9-44
+26        android:roundIcon="@mipmap/daengo_round"
+26-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:15:9-49
 27        android:supportsRtl="true"
 27-->C:\AndroidML\examples-master\examples-master\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:16:9-35
 28        android:testOnly="true"
