@@ -39,6 +39,6 @@ public class ClassifierQuantizedEfficientNet extends Classifier {
     // see build.gradle for where to obtain this file. It should be auto
     // downloaded into assets.
     //return "efficientnet-lite0-int8.tflite";
-    return "model.tflite";
+    return "succ_original_model.tflite";
   }
 }
