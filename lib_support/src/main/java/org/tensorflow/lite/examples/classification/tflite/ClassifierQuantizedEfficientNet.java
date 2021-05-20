@@ -51,12 +51,12 @@ public class ClassifierQuantizedEfficientNet extends Classifier {
     // you can download this file from
     // see build.gradle for where to obtain this file. It should be auto
     // downloaded into assets.
-    return "succ_original_model.tflite";
+    return "succulent_mobileNet.tflite";
   }
 
   @Override
   protected String getLabelPath() {
-    return "succ_original_labels.txt";
+    return "succulent_mobileNet_labels.txt";
   }
 
   @Override
