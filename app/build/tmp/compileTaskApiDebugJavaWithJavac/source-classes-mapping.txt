@@ -1,14 +1,3 @@
-org/tensorflow/lite/examples/classification/CameraConnectionFragment.java
- org.tensorflow.lite.examples.classification.CameraConnectionFragment
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$1
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$2
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$3
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$4
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$5
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$CompareSizesByArea
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$ConnectionCallback
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$ErrorDialog
- org.tensorflow.lite.examples.classification.CameraConnectionFragment$ErrorDialog$1
 org/tensorflow/lite/examples/classification/ClassifierActivity.java
  org.tensorflow.lite.examples.classification.ClassifierActivity
  org.tensorflow.lite.examples.classification.ClassifierActivity$1
@@ -20,13 +9,37 @@ org/tensorflow/lite/examples/classification/customview/ResultsView.java
 org/tensorflow/lite/examples/classification/LegacyCameraConnectionFragment.java
  org.tensorflow.lite.examples.classification.LegacyCameraConnectionFragment
  org.tensorflow.lite.examples.classification.LegacyCameraConnectionFragment$1
+org/tensorflow/lite/examples/classification/env/Logger.java
+ org.tensorflow.lite.examples.classification.env.Logger
+org/tensorflow/lite/examples/classification/env/ImageUtils.java
+ org.tensorflow.lite.examples.classification.env.ImageUtils
+org/tensorflow/lite/examples/classification/customview/AutoFitTextureView.java
+ org.tensorflow.lite.examples.classification.customview.AutoFitTextureView
+org/tensorflow/lite/examples/classification/CameraConnectionFragment.java
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$1
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$2
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$3
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$4
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$5
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$CompareSizesByArea
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$ConnectionCallback
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$ErrorDialog
+ org.tensorflow.lite.examples.classification.CameraConnectionFragment$ErrorDialog$1
 org/tensorflow/lite/examples/classification/customview/OverlayView.java
  org.tensorflow.lite.examples.classification.customview.OverlayView
  org.tensorflow.lite.examples.classification.customview.OverlayView$DrawCallback
 org/tensorflow/lite/examples/classification/BuildConfig.java
  org.tensorflow.lite.examples.classification.BuildConfig
-org/tensorflow/lite/examples/classification/env/Logger.java
- org.tensorflow.lite.examples.classification.env.Logger
+org/tensorflow/lite/examples/classification/ArduinoActivity.java
+ org.tensorflow.lite.examples.classification.ArduinoActivity
+ org.tensorflow.lite.examples.classification.ArduinoActivity$1
+ org.tensorflow.lite.examples.classification.ArduinoActivity$2
+ org.tensorflow.lite.examples.classification.ArduinoActivity$3
+ org.tensorflow.lite.examples.classification.ArduinoActivity$4
+ org.tensorflow.lite.examples.classification.ArduinoActivity$5
+ org.tensorflow.lite.examples.classification.ArduinoActivity$6
+ org.tensorflow.lite.examples.classification.ArduinoActivity$ConnectedBluetoothThread
 org/tensorflow/lite/examples/classification/env/BorderedText.java
  org.tensorflow.lite.examples.classification.env.BorderedText
 org/tensorflow/lite/examples/classification/CameraActivity.java
@@ -38,7 +51,4 @@ org/tensorflow/lite/examples/classification/CameraActivity.java
  org.tensorflow.lite.examples.classification.CameraActivity$5
  org.tensorflow.lite.examples.classification.CameraActivity$6
  org.tensorflow.lite.examples.classification.CameraActivity$7
-org/tensorflow/lite/examples/classification/env/ImageUtils.java
- org.tensorflow.lite.examples.classification.env.ImageUtils
-org/tensorflow/lite/examples/classification/customview/AutoFitTextureView.java
- org.tensorflow.lite.examples.classification.customview.AutoFitTextureView
+ org.tensorflow.lite.examples.classification.CameraActivity$8

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\AndroidML\\examples-master\\examples-master\\lite\\examples\\image_classification\\android\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "C:\\coding\\tensorflow_lite_example_succulent\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chsj\\.gradle\\caches\\transforms-3\\d217638da6f75dfd0c2d3d1048db4234\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\최지원\\.gradle\\caches\\transforms-3\\5c133f15c9b98eb52783e16b1404f8ff\\transformed\\appcompat-1.2.0\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
